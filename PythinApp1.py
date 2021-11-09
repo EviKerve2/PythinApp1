@@ -9,7 +9,7 @@ while m not in [1,2]:
     except:
         ValueError
 return m
-def bot_vs_bot():
+def bot_vs_bot()Ю
 m=start()
 if m==1:
     while True:
