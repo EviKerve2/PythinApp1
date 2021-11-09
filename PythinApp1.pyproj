@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>PythinApp1</Name>
     <RootNamespace>PythinApp1</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
